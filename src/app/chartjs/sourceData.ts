@@ -62,3 +62,28 @@ export const sourceData = [
         "cost": 75000
     }
 ]
+
+
+const dataDefault = {
+    "label": "",
+    "revenue": 0,
+    "cost": 0
+}
+
+const dataHarian = [
+    {
+        "label": "1 Jan",
+        "revenue": 1000,
+        "cost": 500
+    },
+    {
+        "label": "2 Jan",
+        "revenue": 1500,
+        "cost": 700
+    },
+    {
+        "label": "3 Jan",
+        "revenue": 2000,
+        "cost": 1000
+    },
+]
